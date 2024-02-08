@@ -4,4 +4,13 @@
 
 This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
 
-This repo has a dev container. This means if you open it inside a [GitHub Codespace](https://github.com/features/codespaces), or using [VS Code with the remote containers extension](https://code.visualstudio.com/docs/remote/containers), it will be opened inside a container with all the dependencies already installed.
+This repo has a dev container. This means if you open it inside a [GitHub Codespace](https://github.com/features/codespaces), or using [VS Code with the remote containers extension](https://code.visualstudio.com/docs/remote/containers), it will be opened inside a container with all the dependencies already installed. 
+
+** For cloud devs:
+
+Repo is for testing static web app applications in azure already deployed. 
+
+More docs can be found here: 
+
+https://learn.microsoft.com/en-us/azure/static-web-apps/build-configuration?tabs=github-actions 
+
